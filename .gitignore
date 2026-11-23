@@ -1,0 +1,23 @@
+node_modules
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+
+# Local development evidence, backups and personal context
+docs/evidence/
+docs/backups/
+.taste-skill/
+MEMORY.md
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.bak
+usy-data.json
+usy-data.json.*
+coverage/
